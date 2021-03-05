@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500px" height="100px">
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500px" height="200px">
 
 ### Hi there, I'm [AIR ALPHA!](https://airalpha.yo.fr) 👋
 
