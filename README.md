@@ -17,7 +17,7 @@
 
 Hi, I'm Idrice Roussin ABOUDEM, young and passionate about software development.
 
-- 👨🏿‍🎓 I’m currently student in **Institut Universitaire de la Côte**
+- 👨🏿‍🎓 I’m currently student at **Institut Universitaire de la Côte**
 - 🔭 I’m currently working on **Madara & Kongossa mobile app**
 - 🌱 I’m currently learning design on **Figma**
 - 👯 2021 Goals: Contribute more to Open Source projects
@@ -28,15 +28,16 @@ Hi, I'm Idrice Roussin ABOUDEM, young and passionate about software development.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
 
-<a href="https://github.com/airalpha/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=airalpha&show_icons=true&include_all_commits=true&theme=material-palenight" alt="AIRALPHA's github stats" />
 </a>
-<a href="https://github.com/airalpha/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airalpha&layout=compact&theme=material-palenight" />
 </a>
