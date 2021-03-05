@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100px" height="50px">
+
 ### Hi there, I'm [AIR ALPHA!](https://airalpha.yo.fr) 👋
 
 <a href="https://www.linkedin.com/in/idrice-roussin-aboudem/">
