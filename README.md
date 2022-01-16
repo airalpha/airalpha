@@ -50,3 +50,6 @@ Hi, I'm Idrice Roussin ABOUDEM, young and passionate about software development.
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airalpha&layout=compact&theme=tokyonight" />
 </a>
+<a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airalpha&theme=tokyonight" />
+</a>
